@@ -3,22 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.example</groupId>
+        <artifactId>database</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>database</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>objectmodel</module>
-        <module>classwork</module>
-        <module>lab01</module>
-        <module>eavmodel</module>
-        <module>textsearch</module>
-        <module>viewwork</module>
-        <module>triggerwork</module>
-        <module>jsonparse</module>
-        <module>testwork</module>
-    </modules>
+    <artifactId>textsearch</artifactId>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>

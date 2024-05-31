@@ -3,11 +3,25 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/classwork/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/classwork/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eavmodel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eavmodel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonparse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonparse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/objectmodel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/objectmodel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/relationbase/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/relationbase/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testwork/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testwork/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/textsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/textsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/triggerwork/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/triggerwork/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/viewwork/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/viewwork/src/main/resources" charset="UTF-8" />
   </component>
 </project>
